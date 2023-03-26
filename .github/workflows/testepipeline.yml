@@ -1,4 +1,4 @@
-name: CI
+name: Permissaopy
 
 on:
   push:
